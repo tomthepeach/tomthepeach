@@ -1,6 +1,6 @@
-Software Engineer/ Data Scientist
+Software Engineer / Data Scientist
 
-BSc Physics and Computer Science Graduate @ University of Bristol.
+BSc Physics and Computer Science Graduate @University of Bristol.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tomthepeach&theme=dark&background=000000)](https://git.io/streak-stats)
 
